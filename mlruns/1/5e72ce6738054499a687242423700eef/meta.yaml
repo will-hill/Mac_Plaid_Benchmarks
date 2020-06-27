@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/1/5e72ce6738054499a687242423700eef/artifacts
+end_time: 1592499757223
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 5e72ce6738054499a687242423700eef
+run_uuid: 5e72ce6738054499a687242423700eef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1592499519746
+status: 3
+tags: []
+user_id: whill

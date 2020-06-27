@@ -1,0 +1,1 @@
+{"compile_duration": 4.851417779922485, "duration_per_example": 0.0617218182887882, "tile_duration_per_example": 0.038250705843749996, "examples": 1024, "batch_size": 1, "model": "nasnet_mobile", "backend": "plaid", "correct": false, "max_error": NaN, "max_abs_error": NaN, "fail_ratio": 0.0}
